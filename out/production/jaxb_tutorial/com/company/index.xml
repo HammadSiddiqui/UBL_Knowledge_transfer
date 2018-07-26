@@ -1,0 +1,19 @@
+<IBMX>
+    <FDTRsp>
+        <RSP>
+            <FDTList>
+                <FDTStatus>
+                    <STAN>373a8c21-5144-433b-b0dc-e01409bb5ee6</STAN>
+                    <TxnReference>7125461018037696</TxnReference>
+                    <PostingDate>05-December-2017 11:58 AM</PostingDate>
+                    <HostStatusCode>100</HostStatusCode>
+                    <HostStatusDesc>Success</HostStatusDesc>
+                    <StatusCode>IIB100</StatusCode>
+                    <StatusDesc>Success</StatusDesc>
+                </FDTStatus>
+            </FDTList>
+            <STAN>4c610a2f-a235-4be4-9aab-b3254f32f755</STAN>
+            <BatchReferenceNo>1476106692886803</BatchReferenceNo>
+        </RSP>
+    </FDTRsp>
+</IBMX>

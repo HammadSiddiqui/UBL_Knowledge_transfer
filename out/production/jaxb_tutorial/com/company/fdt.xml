@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FDTStatus>
+    <STAN>373a8c21-5144-433b-b0dc-e01409bb5ee6</STAN>
+    <TxnReference>7125461018037696</TxnReference>
+    <PostingDate>05-December-2017 11:58 AM</PostingDate>
+    <HostStatusCode>100</HostStatusCode>
+    <HostStatusDesc>Success</HostStatusDesc>
+    <StatusCode>IIB100</StatusCode>
+    <StatusDesc>Success</StatusDesc>
+</FDTStatus>
